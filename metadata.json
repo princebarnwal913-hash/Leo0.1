@@ -1,0 +1,6 @@
+{
+  "name": "Leo AI",
+  "description": "Multilingual voice AI assistant with native Android app actions, contacts calling, and real-time Gemini voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
